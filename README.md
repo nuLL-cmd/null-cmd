@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com backend
 - 🌱 Estou estudando Kotlin
 - 📫 Contato pelo e-mail: programadormoderador@hotmail.com
-- 😄 Pronouns: Ele/Dele
+- 🤩 Linguagem favorita: Java
 
 <div>
   <a href="https://github.com/nuLL-cmd">
