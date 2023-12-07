@@ -14,7 +14,7 @@ I believe computer viruses should be considered entities with a form of life. I 
 <div>
   <a href="https://github.com/nuLL-cmd">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=nuLL-cmd&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=codeSTACKr"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuLL-cmd&layout=donut&theme=codeSTACKr"/>
 </div><br>
     
 ### 💻 Projects pinned<br>
