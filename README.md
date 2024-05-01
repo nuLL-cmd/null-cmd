@@ -18,14 +18,18 @@ I believe computer viruses should be considered entities with a form of life. I 
 </div><br>
     
 ### 💻 Projects pinned<br>
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/nuLL-cmd">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=e-conommiza_app&theme=codeSTACKr"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=powershell_jedi&theme=codeSTACKr"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=e-conommiza_app&theme=ayu-mirage"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=powershell_jedi&theme=ayu-mirage"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=simple-patter-strategy&theme=ayu-mirage"/>
+
 </div><br>
-<div>
-  <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=aol_app_android_public&theme=codeSTACKr"/>
-  <img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=banner-spring-custom&theme=codeSTACKr"/>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/nuLL-cmd">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=bot_discord_zoio&theme=ayu-mirage"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=banner-spring-custom&theme=ayu-mirage"/>  
+  <img height="129em" src="https://github-readme-stats.vercel.app/api/pin/?username=nuLL-cmd&repo=aol_app_android_public&theme=ayu-mirage"/>  
 </div><br>
 
 ### 🤖 Tech Skills<br>
